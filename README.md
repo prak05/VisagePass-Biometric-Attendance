@@ -20,4 +20,19 @@ This project is a face recognition-based attendance system that uses OpenCV and 
 
 Contributions are welcome! Please feel free to submit a pull request or open an issue if you find any bugs or have any suggestions.
 
+## Portfolio brief
+
+A computer-vision attendance prototype that connects face detection/recognition with registration, matching, and attendance records.
+
+### Visual system
+
+A privacy-first vision console: neutral surfaces, high-contrast camera states, explicit confidence indicators, and no decorative biometric claims.
+
+### Architecture
+
+The Python pipeline separates image capture, face encoding/matching, identity records, and attendance persistence.
+
+### Run and output
+
+Use the repository's Python setup instructions and a local camera/test dataset. Keep enrolled face data and generated models local unless consent and retention rules are established.
 
