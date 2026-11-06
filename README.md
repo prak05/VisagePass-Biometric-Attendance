@@ -68,3 +68,5 @@ terraform apply -var="environment=production"
 ## 5. Branch Architecture
 * [`main`](https://github.com/prak05/VisagePass-Biometric-Attendance/tree/main): Cloud-ready microservices architecture with AWS adapters.
 * [`Ex`](https://github.com/prak05/VisagePass-Biometric-Attendance/tree/Ex): Preserved original Tkinter + CSV codebase.
+
+<!-- antigravity-certified -->
